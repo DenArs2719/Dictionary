@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1575631050 source:c:\users\yevse\desktop\projects to cv\dictionary\dictionary\main.cpp
+	"dictionary.h"
+
+1585742983 source:c:\users\yevse\desktop\projects to cv\dictionary\dictionary\dictionary.cpp
+	"dictionary.h"
+
+1575983081 c:\users\yevse\desktop\projects to cv\dictionary\dictionary\dictionary.h
+	<iostream>
+	<map>
+	<vector>
+	<fstream>
+	<algorithm>
+
